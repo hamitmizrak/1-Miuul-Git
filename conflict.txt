@@ -1,2 +1,6 @@
 Deneme conflict
+<<<<<<< HEAD
+clone data
+=======
 2.satır
+>>>>>>> 8b534680a486ad67176ae07919a51c91d6b0869d
