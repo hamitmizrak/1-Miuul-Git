@@ -1,1 +1,2 @@
 Deneme conflict
+clone data
